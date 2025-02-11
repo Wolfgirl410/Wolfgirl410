@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wolfgirl410
-- 👀 I’m interested in coding (Obvy), crochetting, knitting, sewing, reading, essentially any new skills I can randomly learn with a bit of tools and a lot of time.
+- 👀 I’m interested in coding, crochetting, knitting, sewing, reading, essentially any new skills I can randomly learn with a bit of tools and a lot of time.
 - 🌱 I’m currently learning R, Python, and pattern-drafting
 - 💞️ I’m looking to collaborate on building a portfolio of coding projects.
 - 📫 How to reach me ...
